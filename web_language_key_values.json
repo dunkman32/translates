@@ -1,0 +1,870 @@
+{
+  "en_US": {
+    "all": "all",
+    "currency_GEL": "Lari",
+    "currency_USD": "Dollar",
+    "currency_EUR": "Euro",
+    "currency_GPB": "Pound",
+    "currency_RUB": "Ruble",
+    "currency_CHF": "Franc",
+    "currency_AZN": "Azerbaijan",
+    "currency_GBP": "Pound",
+    "home_transaction": "ტრანზაქციები",
+    "residence_page_political_info_check": "მნიშვნელოვანი საჯარო ფუნქციის შემსრულებელი ფიზიკური პირი, მისი ოჯახის წევრი ან მასთან საქმიან ურთიერთობაში მყოფი პირი (ბიზნეს პარტნიორი, კომპანიის თანამესაკუთრე) მნიშვნელოვანი საჯარო ფუნქცია:სახელმწიფოს მეთაური, მთავრობის ხელმძღვანელი, მთავრობის წევრი (მინისტრი), მისი მოადგილე, სახელმწიფო დაწესებულების ხელმძღვანელი; პარლამენტის წევრი; პოლიტიკური გაერთიანების ხელმძღვანელი, მმართველობის ორგანოს წევრი; უზენაესი სასამართლოს, საკონსტიტუციო სასამართლოს, უმაღლესი ინსტანციის სხვა სასამართლო ორგანოს წევრი, რომლის გადაწყვეტილებები გამონაკლის შემთხვევაში საჩივრდება; გენერალური აუდიტორი, მისი მოადგილე, აუდიტორთა სასამართლოს წევრი; ეროვნული (ცენტრალური) ბანკის საბჭოს წევრი; ელჩი, დიპლომატიური წარმომადგენლობის ხელმძღვანელი; თავდაცვის (სამხედრო) ძალების ხელმძღვანელი თანამდებობის პირი; სახელმწიფოს წილობრივი მონაწილეობით მოქმედი საწარმოს ხელმძღვანელი, მმართველობის ორგანოს წევრი; საერთაშორისო ორგანიზაციის ხელმძღვანელი, მისი მოადგილე, მმართველობის ორგანოს წევრი",
+    "placeholders": {
+      "find_template": "Find a template"
+    },
+    "dashboard": {
+      "slider_title": "ჩემი შეთავაზებები"
+    },
+    "header": {
+      "logout": "Logout",
+      "hello": "Hello",
+      "accounts": "ანგარიშები",
+      "loans": "სესხები",
+      "inbox": "მიღებული",
+      "outbox": "გაგზავნილი",
+      "deposits": "დეპოზიტები"
+    },
+    "nav": {
+      "home": "Home Page",
+      "fill_mobile": "მობილურის შევსება",
+      "external_transfer": "სხვასთან გადარიცხვა",
+      "internal_transfer": "შიდა გადარიცხვა",
+      "on_my_account": "ჩემს ანგარიშზე",
+      "someone": "სხვასთან",
+      "budget": "ბიუჯეტში",
+      "auto_transactions": "ავტომატური გადარიცხვები",
+      "auto_payment": "ავტომატური გადახდები",
+      "communal": "ავტომატური გადარიცხვები",
+      "penalty": "პარკირება და ჯარიმები",
+      "transfer": "გადარიცხვა",
+      "payments": "გადახდები"
+    },
+    "accounts": {
+      "open_top_card": "გახსენი ტოპ|ქარდი",
+      "open-account": "გახსენი ანგარიში"
+    },
+    "accounts_shared": {
+      "details": {
+        "details": "დეტალები"
+      },
+      "edit": {
+        "text_size_title": "ტექსტის ზომა არ უნდა აღემატებოდეს 16 სიმბოლოს!",
+        "card_name": "ბარათის სახელი",
+        "change_name": "სახელის შეცვლა",
+        "save": "შენახვა"
+      },
+      "info_tooltip": {
+        "no_enough_amount": "ანგარიშზე არ არის საკმარისი თანხა!"
+      }
+    },
+    "button_component": {
+      "button": "ღილაკი"
+    },
+    "choose_amount": {
+      "error": "დაფიქსირდა შეცდომა",
+      "checking_number": "მოწმდება მობილურის ნომერი",
+      "error_when_checking": "მოხდა შეცდომა მობილური ნომრის შემოწმებისას",
+      "wait_while_number_is_cheking": "გთხოვთ დაელოდოთ სანამ ნომერი შემოწმდება",
+      "amount": "თანხა",
+      "name_n_surname": "სახელი და გვარი",
+      "destination": "დანიშნულება",
+      "next": "შემდეგი",
+      "new_payment": "ახალი გადარიცხვა",
+      "check_transaction_modal": {
+        "commission": "საკომისიო",
+        "check": "გადაამოწმეთ",
+        "from_card": "ბარათიდან",
+        "recipient": "მიმღები",
+        "to_card": "ბარათზე",
+        "destination": "დანიშნულება",
+        "amount": "თანხა",
+        "bowl": "ჯამი",
+        "accept": "დადასტურება"
+      },
+      "chosen_card": {
+        "from_card": "ბარათიდან",
+        "choose_card": "აირჩიეთ ბარათი",
+        "choose": "არჩევა"
+      },
+      "Payment_response": {
+        "home_page": "მთავარი გვერდი"
+      }
+    },
+    "choose_card_modal": {
+      "choose_card": "აირჩიეთ ბარათი"
+    },
+    "debit_card": {
+      "footer": {
+        "account_copied": "ანგარიში დაკოპირებულია",
+        "iban": "Iban ანგარიში"
+      },
+      "content": {
+        "text_size_title": "ტექსტის ზომა არ უნდა აღემატებოდეს 16 სიმბოლოს!",
+        "payment": "გადარიცხვა",
+        "extraction": "ამონაწერი",
+        "card_details": "ბარათის დეტალები",
+        "on_my_account": "ჩემს ანგარიშზე",
+        "on_someones_account": "სხვასთან"
+      },
+      "header": {
+        "name_changed": "სახელი შეცვლილია",
+        "error_try_again_later": "სამწუხაროდ სახელის შეცვლა ვერ მოხერხდა, სხადეთ მოგვიანებით",
+        "chosen_as_main": "მოინიშნა ძირითად ბარათად",
+        "cant_chosen_as_main": "ვერ მოინიშნა ძირითად ბარათად",
+        "available_balance": "ხელმისაწვდომი ნაშთი:",
+        "change_name": "სახელის შეცვლა",
+        "choose_as_main": "ძირითად ბარათად მონიშვნა",
+        "toggle_block_unblock": "დაბლოკვა/განბლოკვა"
+      }
+    },
+    "deposits": {
+      "footer": {
+        "details": "დეტალები"
+      },
+      "content": {
+        "iban": "Iban ანგარიში",
+        "copied_account": "ანგარიში დაკოპირებულია"
+      },
+      "header": {
+        "name_changed": "სახელი შეცვლილია",
+        "error_try_again_later": "სამწუხაროდ სახელის შეცვლა ვერ მოხერხდა, სხადეთ მოგვიანებით"
+      }
+    },
+    "loan": {
+      "actions": {
+        "loan_details": "სესხის დეტალები"
+      },
+      "schedule": {
+        "payment_cant_find_date": "გადახდის გრაფიკი ვერ მოიძებნა",
+        "payment_schedule": "გადახდის გრაფიკი",
+        "payment_date": "გადახდის თარიღი",
+        "floor": "ძირი",
+        "percent": "პროცენტი",
+        "remanding_amount": "დარჩენილი ძირი",
+        "payable_amount": "გადასახდელი თანხა"
+      },
+      "header": {
+        "name_changed": "სახელი შეცვლილია",
+        "error_try_again_later": "სამწუხაროდ სახელის შეცვლა ვერ მოხერხდა, სხადეთ მოგვიანებით",
+        "remaining_loan_principal": "დარჩენილი სესხის ძირი"
+      }
+    },
+    "notices": {
+      "send_notification_modal": {
+        "notice_sent": "შეტყობინება გაგზავნილია",
+        "new_notice": "ახალი შეტყობინება",
+        "theme": "თემა",
+        "enter_notice": "შეიყვანეთ შეტყობინება...",
+        "add_file": "ფაილის მიბმა",
+        "send": "გაგზავნა"
+      },
+      "list": {
+        "notices": "შეტყობინებები",
+        "choose_all": "მონიშნე ყველა",
+        "cancel": "გაუქმება",
+        "choose": "მონიშნე",
+        "new_notice": "ახალი შეტყობინება",
+        "notices_nf": "შეტყობინებები არ მოიძებნა",
+        "press_plus": "დააჭირეთ “+” ღილაკს ახალი შეტყობინების შესაქმნელად",
+        "response": "პასუხი",
+        "remove": "წაშლა",
+        "do_u_want_to_remove": "ნამდვილად გსურთ მიმოწერის წაშლა?",
+        "remove_the_selected": "მონიშნულის წაშლა"
+      },
+      "notice": {
+        "data_is_deleted": "მონაცემი წაშლილია",
+        "press_button": "დააჭირეთ ღილაკს უკან გადასვლისთვის",
+        "go_back": "უკან გადასვლა",
+        "details": "შეტყობინების დეტალები",
+        "do_u_want_to_remove": "ნამდვილად გსურთ მიმოწერის წაშლა?"
+      }
+    },
+    "top_card": {
+      "top_card_actions": {
+        "transfer": "გადარიცხვა",
+        "extraction": "ამონაწერი",
+        "details": "ტოპ|ქარდის დეტალები",
+        "fill": "ტოპ|ქარდის შევსება"
+      },
+      "top_card_details": {
+        "credit": "Iban ანგარიში საკრედიტო",
+        "copied": "ანგარიში დაკოპირებულია",
+        "debit": "Iban ანგარიში სადებიტო",
+        "next_date": "შემდეგი გადახდის თარიღი",
+        "recommended_amount": "რეკომენდირებული გადასახდელი თანხა",
+        "min_amount": "მინიმალური გადასახდელი თანხა"
+      },
+      "top_card_header": {
+        "changed": "სახელი შეცვლილია",
+        "error_title": "სამწუხაროდ სახელის შეცვლა ვერ მოხერხდა, სხადეთ მოგვიანებით",
+        "available_amount": "ხელმისაწვდომი ნაშთი",
+        "change_name": "სახელის შეცვლა",
+        "toggle_block_unblock": "დაბლოკვა/განბლოკვა",
+        "debit": "სადებეტო ნაშთი:",
+        "credit": "საკრედიტო ნაშთი:"
+      }
+    },
+    "top_up": {
+      "list_of_numbers": {
+        "templates_nf": "შაბლონები არ მოიძებნა",
+        "press_plus": "დააჭირეთ “+” ღილაკს მობილურზე თანხის ჩასარიცხად",
+        "new_payment": "ახალი გადახდა",
+        "edit": "რედაქტირება",
+        "remove": "წაშლა",
+        "do_u_want_to_remove": "ნამდვილად გსურთ შაბლონის წაშლა?"
+      },
+      "main": {
+        "new_payment": "ახალი გადახდა"
+      }
+    },
+    "transactions": {
+      "find_transaction": "მოძებნე ტრაზაქცია...",
+      "transactions_nf": "ტრანზაქციები არ მოიძებნა",
+      "home_transaction": "ტრანზაქციები",
+      "all_transactions": "ყველა ტრანზაქცია",
+      "filter": {
+        "account": "account",
+        "all": "ყველა",
+        "filter": "ფილტრი",
+        "clean": "გასუფთავება",
+        "keyword": "საძიებო სიტყვა...",
+        "transaction_type": "ტრანზაქციის ტიპი",
+        "currency": "ვალუტა",
+        "date_from": "თარიღი (დან)",
+        "date_to": "თარიღი (მდე)",
+        "amount": "თანხა",
+        "amount_from": "თანხა (დან)",
+        "amount_to": "თანხა (მდე)",
+        "exact_amount": "კონკრეტული თანხა",
+        "filter_it": "გაფილტრე"
+      },
+      "transaction": {
+        "error_pdf": ".PDF დოკუმენტის ჩამოწერა ვერ მოხერხდა.",
+        "repeat": "გამეორება",
+        "return": "დაბრუნება",
+        "save": "შენახვა",
+        "avt_payment": "ავტ. გადარიცხვა",
+        "transaction_type": "ტრანზაქციის დეტალები",
+        "recipient": "მიმღები",
+        "sender": "გამგზავნი",
+        "name": "სახელი",
+        "number": "ანგარიშის ნომერი",
+        "bank": "ბანკი",
+        "code": "ბანკის კოდი"
+      }
+    },
+    "transfers": {
+      "all_transactions": "ყველა ტრანზაქცია",
+      "internal": {
+        "choose_amount": {
+          "from_card": "ბარათიდან",
+          "on_the_card": "ბარათზე"
+        }
+      }
+    },
+    "routes": {
+      "deposit": {
+        "account_name": "ანაბრის სახელი"
+      },
+      "extract": {
+        "from_date": "თარიღიდან",
+        "month_year": "თვე - წელი",
+        "to_date": "თარიღამდე",
+        "accept": "დადასტურება",
+        "standard": "სტანდარტული",
+        "equivalent": "ექვივალენტი",
+        "complete": "სრული",
+        "additional": "დამატებითი",
+        "this_month": "მიმდინარე თვე",
+        "last3": "ბოლო 3 თვის",
+        "last6": "ბოლო 6 თვის",
+        "last12": "ბოლო 12 თვის",
+        "exact": "კონკრეტული პერიოდის",
+        "choose_period": "აირჩიეთ პერიოდი",
+        "extraction": "ამონაწერი",
+        "to_account": "ანგარიშიდან",
+        "extraction_type": "ამონაწერის ტიპი",
+        "extraction_period": "ამონაწერის პერიოდი",
+        "date_from": "თარიღი (დან)",
+        "date_to": "თარიღი (მდე)",
+        "download": "გადმოწერა"
+      },
+      "loan": {
+        "name": "სესხის სახელი"
+      },
+      "top_card": {
+        "check_it": "გადაამოწმეთ",
+        "from_card": "ბარათიდან",
+        "to_card": "ბარათზე",
+        "destination": "დანიშნულება",
+        "amount": "თანხა:",
+        "accept": "დადასტურება",
+        "top_card": "ტოპ|ქარდი",
+        "payed": "შევსებულია",
+        "error": "დაფიქსირდა შეცდომა",
+        "added_to_top_card": "შეტანილია თქვენ ტოპ|ქარდზე",
+        "try_again": "გთხოვთ სცადოთ ტოპ|ქარდის შევსება მოგვიანებით",
+        "home_page": "მთავარი გვერდი",
+        "cant_choose_cards": "ვერ მოხერხდა ბარათების არჩევა",
+        "specified_amount_is_incorrect": "მითითებული თანხა არასწორია",
+        "fill_top_card": "ტოპ|ქარდის შევსება",
+        "next": "შემდეგი"
+      },
+      "top_up": {
+        "save_template": "შაბლონად შენახვა",
+        "change_image": "ფოტოს შეცვლა",
+        "template_name": "შაბლონის სახელი",
+        "save_and_fill": "შენახვა და შევსება",
+        "just_save": "მხოლოდ შენახვა",
+        "mobile_filled": "მობილური შევსებულია",
+        "error": "დაფიქსირდა შეცდომა",
+        "processed_payment": "გადახდა მუშავდება",
+        "filled": "ჩარიცხულია",
+        "on_mobile": "მობილურზე",
+        "try_again_later": "გთხოვთ სცადოთ მობილურის შევსება მოგვიანებით",
+        "payment_status_history": "გადახდის სტატუსის სანახავად იხილეთ ტრანზაქციების ისტორია",
+        "filled_mobile": "მობილურის შევსება",
+        "recipient": "მიმღები",
+        "entered_num_incorrect": "შეყვანილი ნომერი არასწორია",
+        "mobile_number": "მობილურის ნომერი",
+        "save_as_template": "შაბლონად შენახვა",
+        "next": "შემდეგი",
+        "check": "შემოწმება"
+      },
+      "transfers": {
+        "choose_card": "აირჩიე ბარათი",
+        "mobile_num_incorrect": "მობილურის ნომერი არასწორადაა შეყვანილი",
+        "iban": "IBAN ანგარიში",
+        "iban_or_id": "IBAN ანგარიში ან პირადი ნომერი",
+        "cant_find_account_on_this_iban_or_id": "ვერ მოხერხდა ამ პირადობის ნომერზე ანგარიშის მოძებნა!",
+        "iban_or_pn": "ანგარიშით ან პირადი ნომრით",
+        "by_mobile_num": "მობილურის ნომრით",
+        "mobile_num": "მობილურის ნომერი",
+        "recipient_bank": "მიმღების ბანკი",
+        "recipient_bank_code": "მიმღების ბანკის კოდი",
+        "save_as_template": "შაბლონად შენახვა",
+        "next": "შემდეგი",
+        "chek": "შემოწმება",
+        "error": "მოხდა შეცდომა!",
+        "new_account_added_on_template": "ახალი ანგარიში წარმატებით მიება შაბლონს!",
+        "change_image": "ფოტოს შეცვლა",
+        "template_name": "შაბლონის სახელი",
+        "save_and_fill": "შენახვა და შევსება",
+        "save": "მხოლოდ შენახვა",
+        "payment_succeed": "გადარიცხვა შესრულებულია",
+        "payment_error": "დაფიქსირდა შეცდომა",
+        "payment_progress": "გადახდა მუშავდება",
+        "try_again_later": "გთხოვთ სცადოთ გადარიცხვა მოგვიანებით",
+        "payment_status_history": "გადახდის სტატუსის სანახავად იხილეთ ტრანზაქციების ისტორია",
+        "external_transfer": "სხვასთან გადარიცხვა",
+        "account_copied": "ანგარიში დაკოპირებულია",
+        "mobile": "მობილური",
+        "remove": "წაშლა",
+        "template": "შაბლონი",
+        "id_number": "პირადი ნომერი",
+        "templates_nf": "შაბლონები არ მოიძებნა",
+        "press_btn": "დააჭირეთ ღილაკს სხვასთან თანხის გადასარიცხად",
+        "new_transfer": "ახალი გადარიცხვა",
+        "new_payment": "ახალი გადარიცხვა",
+        "check_it": "გადაამოწმეთ",
+        "from_card": "ბარათიდან",
+        "sell": "გაყიდვა",
+        "buy": "ყიდვა",
+        "rate": "კურსი:",
+        "amount": "თანხა",
+        "approve": "დადასტურება",
+        "personal_transfer": "პირადი გადარიცხვა",
+        "on_my_account": "ჩემს ანგარიშზე",
+        "choose": "არჩევა",
+        "change_card": "ბარათების გადანაცვლება",
+        "on_card": "ბარათზე",
+        "destination": "დანიშნულება",
+        "on": "ზე",
+        "see": "ნახვა",
+        "paid": "გადარიცხულია"
+      },
+      "verification": {
+        "data_is_processing": "მონაცემები მუშავდება…",
+        "you_fill_get_notice": "რეგისტრაციის პროცესის დასრულების შესახებ მიიღებთ შეტყობინებას",
+        "home_page": "მთავარი გვერდი",
+        "next": "შემდეგი",
+        "interest": "ინტერესები",
+        "which_services_do_u_want": "რომელი საბანკო სერვისები გაინტერესებთ?",
+        "choose_service": "აირჩიეთ სერვის(ები)ი",
+        "expected_circulation": "მოსალოდნელი ბრუნვა ანგარიშზე",
+        "relationship_aim_between_bank": "ბანკთან ურთიერთობის მიზანი?",
+        "take_loan": "სესხის აღება",
+        "complex_bank_services": "კომპლექსური საბანკო სერვისები",
+        "one_time_operations": "ერთჯერადი ოპერაციები",
+        "additional_info": "დამატებითი ინფორმაცია",
+        "are_you_taxpayer": "ხართ თუ არა სხვა ქვეყნის გადასახადების გადამხდელი?",
+        "country": "ქვეყანა",
+        "are_you_politician": "ხართ თუ არა პოლიტიკურად აქტიური პირი?",
+        "no": "არა",
+        "yes": "კი",
+        "error": "მოხდა შეცდომა",
+        "take_your_id": "მოამზადეთ პირადობის მოწმობა ან პასპორტი",
+        "btn_ready_title": "ღილაკზე “მზად ვარ” დაჭერით თქვენ ეთანხმებით",
+        "id_policies": "იდენტიფიკაციის პირობებს",
+        "i_am_ready": "მზად ვარ",
+        "job_info": "ინფორმაცია საქმიანობაზე",
+        "employed": "დასაქმებული",
+        "entrepreneur": "მეწარმე",
+        "self_employed": "თვითდასაქმებული",
+        "unemployed": "უმუშევარი",
+        "name_of_employer": "დამსაქმებლის დასახელება",
+        "position": "პოზიცია",
+        "field_of_activity": "საქმიანობის სფერო",
+        "enter_min_2_word": "შეიყვანე მინიმუმ ორი სიტყვა",
+        "required_input": "ამ ველის შევსება აუცილებელია",
+        "actual_city": "ფაქტიური მისამართი",
+        "city": "ქალაქი",
+        "address": "მისამართი",
+        "exact_legal_and_actual": "იურიდიული მისამართი ემთხვევა ფაქტიურს",
+        "legal_address": "იურიდიული მისამართი",
+        "info_on_resident": "ინფორმაცია რეზიდენტზე",
+        "are_you_green": "ხართ თუ არა ამერიკული „მწვანე ბარათის“ მფლობელი (ვადის გასვლის თარიღის მიუხედავად) ან ხართ თუ არა აშშ-ის რეზიდენტი?",
+        "social_protect_number": "სოციალური დაცვის ნომერი",
+        "dont_have_social_protect_number": "არ მაქვს სოციალური დაცვის ნომერი",
+        "do_you_have_dual_citizenship": "გაქვთ ორმაგი მოქალაქეობა?",
+        "find_country": "მოძებნეთ ქვეყანა"
+      }
+    }
+  },
+  "ka_GE": {
+    "currency_GEL": "ლარი",
+    "currency_USD": "დოლარი",
+    "currency_EUR": "ევრო",
+    "all": "ყველა",
+    "currency_GPB": "Pound",
+    "currency_RUB": "Ruble",
+    "currency_CHF": "Franc",
+    "currency_AZN": "Azerbaijan",
+    "currency_GBP": "Pound",
+    "home_transaction": "ტრანზაქციები",
+    "residence_page_political_info_check": "მნიშვნელოვანი საჯარო ფუნქციის შემსრულებელი ფიზიკური პირი, მისი ოჯახის წევრი ან მასთან საქმიან ურთიერთობაში მყოფი პირი (ბიზნეს პარტნიორი, კომპანიის თანამესაკუთრე) მნიშვნელოვანი საჯარო ფუნქცია:სახელმწიფოს მეთაური, მთავრობის ხელმძღვანელი, მთავრობის წევრი (მინისტრი), მისი მოადგილე, სახელმწიფო დაწესებულების ხელმძღვანელი; პარლამენტის წევრი; პოლიტიკური გაერთიანების ხელმძღვანელი, მმართველობის ორგანოს წევრი; უზენაესი სასამართლოს, საკონსტიტუციო სასამართლოს, უმაღლესი ინსტანციის სხვა სასამართლო ორგანოს წევრი, რომლის გადაწყვეტილებები გამონაკლის შემთხვევაში საჩივრდება; გენერალური აუდიტორი, მისი მოადგილე, აუდიტორთა სასამართლოს წევრი; ეროვნული (ცენტრალური) ბანკის საბჭოს წევრი; ელჩი, დიპლომატიური წარმომადგენლობის ხელმძღვანელი; თავდაცვის (სამხედრო) ძალების ხელმძღვანელი თანამდებობის პირი; სახელმწიფოს წილობრივი მონაწილეობით მოქმედი საწარმოს ხელმძღვანელი, მმართველობის ორგანოს წევრი; საერთაშორისო ორგანიზაციის ხელმძღვანელი, მისი მოადგილე, მმართველობის ორგანოს წევრი",
+    "placeholders": {
+      "find_template": "შაბლონის ძებნა"
+    },
+    "dashboard": {
+      "slider_title": "ჩემი შეთავაზებები"
+    },
+    "header": {
+      "logout": "გამოსვლა",
+      "hello": "გამაჯობა",
+      "accounts": "ანგარიშები",
+      "loans": "სესხები",
+      "inbox": "მიღებული",
+      "outbox": "გაგზავნილი",
+      "deposits": "დეპოზიტები"
+    },
+    "nav": {
+      "home": "მთავარი",
+      "fill_mobile": "მობილურის შევსება",
+      "external_transfer": "სხვასთან გადარიცხვა",
+      "internal_transfer": "შიდა გადარიცხვა",
+      "on_my_account": "ჩემს ანგარიშზე",
+      "someone": "სხვასთან",
+      "budget": "ბიუჯეტში",
+      "auto_transactions": "ავტომატური გადარიცხვები",
+      "auto_payment": "ავტომატური გადახდები",
+      "communal": "ავტომატური გადარიცხვები",
+      "penalty": "პარკირება და ჯარიმები",
+      "transfer": "გადარიცხვა",
+      "payments": "გადახდები"
+    },
+    "accounts": {
+      "open_top_card": "გახსენი ტოპ|ქარდი",
+      "open-account": "გახსენი ანგარიში"
+    },
+    "accounts_shared": {
+      "details": {
+        "details": "დეტალები"
+      },
+      "edit": {
+        "text_size_title": "ტექსტის ზომა არ უნდა აღემატებოდეს 16 სიმბოლოს!",
+        "card_name": "ბარათის სახელი",
+        "change_name": "სახელის შეცვლა",
+        "save": "შენახვა"
+      },
+      "info_tooltip": {
+        "no_enough_amount": "ანგარიშზე არ არის საკმარისი თანხა!"
+      }
+    },
+    "button_component": {
+      "button": "ღილაკი"
+    },
+    "choose_amount": {
+      "error": "დაფიქსირდა შეცდომა",
+      "checking_number": "მოწმდება მობილურის ნომერი",
+      "error_when_checking": "მოხდა შეცდომა მობილური ნომრის შემოწმებისას",
+      "wait_while_number_is_cheking": "გთხოვთ დაელოდოთ სანამ ნომერი შემოწმდება",
+      "amount": "თანხა",
+      "name_n_surname": "სახელი და გვარი",
+      "destination": "დანიშნულება",
+      "next": "შემდეგი",
+      "new_payment": "ახალი გადარიცხვა",
+      "check_transaction_modal": {
+        "commission": "საკომისიო",
+        "check": "გადაამოწმეთ",
+        "from_card": "ბარათიდან",
+        "recipient": "მიმღები",
+        "to_card": "ბარათზე",
+        "destination": "დანიშნულება",
+        "amount": "თანხა",
+        "bowl": "ჯამი",
+        "accept": "დადასტურება"
+      },
+      "chosen_card": {
+        "from_card": "ბარათიდან",
+        "choose_card": "აირჩიეთ ბარათი",
+        "choose": "არჩევა"
+      },
+      "Payment_response": {
+        "home_page": "მთავარი გვერდი"
+      }
+    },
+    "choose_card_modal": {
+      "choose_card": "აირჩიეთ ბარათი"
+    },
+    "debit_card": {
+      "footer": {
+        "account_copied": "ანგარიში დაკოპირებულია",
+        "iban": "Iban ანგარიში"
+      },
+      "content": {
+        "text_size_title": "ტექსტის ზომა არ უნდა აღემატებოდეს 16 სიმბოლოს!",
+        "payment": "გადარიცხვა",
+        "extraction": "ამონაწერი",
+        "card_details": "ბარათის დეტალები",
+        "on_my_account": "ჩემს ანგარიშზე",
+        "on_someones_account": "სხვასთან"
+      },
+      "header": {
+        "name_changed": "სახელი შეცვლილია",
+        "error_try_again_later": "სამწუხაროდ სახელის შეცვლა ვერ მოხერხდა, სხადეთ მოგვიანებით",
+        "chosen_as_main": "მოინიშნა ძირითად ბარათად",
+        "cant_chosen_as_main": "ვერ მოინიშნა ძირითად ბარათად",
+        "available_balance": "ხელმისაწვდომი ნაშთი:",
+        "change_name": "სახელის შეცვლა",
+        "choose_as_main": "ძირითად ბარათად მონიშვნა",
+        "toggle_block_unblock": "დაბლოკვა/განბლოკვა"
+      }
+    },
+    "deposits": {
+      "footer": {
+        "details": "დეტალები"
+      },
+      "content": {
+        "iban": "Iban ანგარიში",
+        "copied_account": "ანგარიში დაკოპირებულია"
+      },
+      "header": {
+        "name_changed": "სახელი შეცვლილია",
+        "error_try_again_later": "სამწუხაროდ სახელის შეცვლა ვერ მოხერხდა, სხადეთ მოგვიანებით"
+      }
+    },
+    "loan": {
+      "actions": {
+        "loan_details": "სესხის დეტალები"
+      },
+      "schedule": {
+        "payment_cant_find_date": "გადახდის გრაფიკი ვერ მოიძებნა",
+        "payment_schedule": "გადახდის გრაფიკი",
+        "payment_date": "გადახდის თარიღი",
+        "floor": "ძირი",
+        "percent": "პროცენტი",
+        "remanding_amount": "დარჩენილი ძირი",
+        "payable_amount": "გადასახდელი თანხა"
+      },
+      "header": {
+        "name_changed": "სახელი შეცვლილია",
+        "error_try_again_later": "სამწუხაროდ სახელის შეცვლა ვერ მოხერხდა, სხადეთ მოგვიანებით",
+        "remaining_loan_principal": "დარჩენილი სესხის ძირი"
+      }
+    },
+    "notices": {
+      "send_notification_modal": {
+        "notice_sent": "შეტყობინება გაგზავნილია",
+        "new_notice": "ახალი შეტყობინება",
+        "theme": "თემა",
+        "enter_notice": "შეიყვანეთ შეტყობინება...",
+        "add_file": "ფაილის მიბმა",
+        "send": "გაგზავნა"
+      },
+      "list": {
+        "notices": "შეტყობინებები",
+        "choose_all": "მონიშნე ყველა",
+        "cancel": "გაუქმება",
+        "choose": "მონიშნე",
+        "new_notice": "ახალი შეტყობინება",
+        "notices_nf": "შეტყობინებები არ მოიძებნა",
+        "press_plus": "დააჭირეთ “+” ღილაკს ახალი შეტყობინების შესაქმნელად",
+        "response": "პასუხი",
+        "remove": "წაშლა",
+        "do_u_want_to_remove": "ნამდვილად გსურთ მიმოწერის წაშლა?",
+        "remove_the_selected": "მონიშნულის წაშლა"
+      },
+      "notice": {
+        "data_is_deleted": "მონაცემი წაშლილია",
+        "press_button": "დააჭირეთ ღილაკს უკან გადასვლისთვის",
+        "go_back": "უკან გადასვლა",
+        "details": "შეტყობინების დეტალები",
+        "do_u_want_to_remove": "ნამდვილად გსურთ მიმოწერის წაშლა?"
+      }
+    },
+    "top_card": {
+      "top_card_actions": {
+        "transfer": "გადარიცხვა",
+        "extraction": "ამონაწერი",
+        "details": "ტოპ|ქარდის დეტალები",
+        "fill": "ტოპ|ქარდის შევსება"
+      },
+      "top_card_details": {
+        "credit": "Iban ანგარიში საკრედიტო",
+        "copied": "ანგარიში დაკოპირებულია",
+        "debit": "Iban ანგარიში სადებიტო",
+        "next_date": "შემდეგი გადახდის თარიღი",
+        "recommended_amount": "რეკომენდირებული გადასახდელი თანხა",
+        "min_amount": "მინიმალური გადასახდელი თანხა"
+      },
+      "top_card_header": {
+        "changed": "სახელი შეცვლილია",
+        "error_title": "სამწუხაროდ სახელის შეცვლა ვერ მოხერხდა, სხადეთ მოგვიანებით",
+        "available_amount": "ხელმისაწვდომი ნაშთი",
+        "change_name": "სახელის შეცვლა",
+        "toggle_block_unblock": "დაბლოკვა/განბლოკვა",
+        "debit": "სადებეტო ნაშთი:",
+        "credit": "საკრედიტო ნაშთი:"
+      }
+    },
+    "top_up": {
+      "list_of_numbers": {
+        "templates_nf": "შაბლონები არ მოიძებნა",
+        "press_plus": "დააჭირეთ “+” ღილაკს მობილურზე თანხის ჩასარიცხად",
+        "new_payment": "ახალი გადახდა",
+        "edit": "რედაქტირება",
+        "remove": "წაშლა",
+        "do_u_want_to_remove": "ნამდვილად გსურთ შაბლონის წაშლა?"
+      },
+      "main": {
+        "new_payment": "ახალი გადახდა"
+      }
+    },
+    "transactions": {
+      "find_transaction": "მოძებნე ტრაზაქცია...",
+      "transactions_nf": "ტრანზაქციები არ მოიძებნა",
+      "home_transaction": "ტრანზაქციები",
+      "all_transactions": "ყველა ტრანზაქცია",
+      "filter": {
+        "account": "ანგარიში",
+        "all": "ყველა",
+        "filter": "ფილტრი",
+        "clean": "გასუფთავება",
+        "keyword": "საძიებო სიტყვა...",
+        "transaction_type": "ტრანზაქციის ტიპი",
+        "currency": "ვალუტა",
+        "date_from": "თარიღი (დან)",
+        "date_to": "თარიღი (მდე)",
+        "amount": "თანხა",
+        "amount_from": "თანხა (დან)",
+        "amount_to": "თანხა (მდე)",
+        "exact_amount": "კონკრეტული თანხა",
+        "filter_it": "გაფილტრე"
+      },
+      "transaction": {
+        "error_pdf": ".PDF დოკუმენტის ჩამოწერა ვერ მოხერხდა.",
+        "repeat": "გამეორება",
+        "return": "დაბრუნება",
+        "save": "შენახვა",
+        "avt_payment": "ავტ. გადარიცხვა",
+        "transaction_type": "ტრანზაქციის დეტალები",
+        "recipient": "მიმღები",
+        "sender": "გამგზავნი",
+        "name": "სახელი",
+        "number": "ანგარიშის ნომერი",
+        "bank": "ბანკი",
+        "code": "ბანკის კოდი"
+      }
+    },
+    "transfers": {
+      "all_transactions": "ყველა ტრანზაქცია",
+      "internal": {
+        "choose_amount": {
+          "from_card": "ბარათიდან",
+          "on_the_card": "ბარათზე"
+        }
+      }
+    },
+    "routes": {
+      "deposit": {
+        "account_name": "ანაბრის სახელი"
+      },
+      "extract": {
+        "from_date": "თარიღიდან",
+        "month_year": "თვე - წელი",
+        "to_date": "თარიღამდე",
+        "accept": "დადასტურება",
+        "standard": "სტანდარტული",
+        "equivalent": "ექვივალენტი",
+        "complete": "სრული",
+        "additional": "დამატებითი",
+        "this_month": "მიმდინარე თვე",
+        "last3": "ბოლო 3 თვის",
+        "last6": "ბოლო 6 თვის",
+        "last12": "ბოლო 12 თვის",
+        "exact": "კონკრეტული პერიოდის",
+        "choose_period": "აირჩიეთ პერიოდი",
+        "extraction": "ამონაწერი",
+        "to_account": "ანგარიშიდან",
+        "extraction_type": "ამონაწერის ტიპი",
+        "extraction_period": "ამონაწერის პერიოდი",
+        "date_from": "თარიღი (დან)",
+        "date_to": "თარიღი (მდე)",
+        "download": "გადმოწერა"
+      },
+      "loan": {
+        "name": "სესხის სახელი"
+      },
+      "top_card": {
+        "check_it": "გადაამოწმეთ",
+        "from_card": "ბარათიდან",
+        "to_card": "ბარათზე",
+        "destination": "დანიშნულება",
+        "amount": "თანხა:",
+        "accept": "დადასტურება",
+        "top_card": "ტოპ|ქარდი",
+        "payed": "შევსებულია",
+        "error": "დაფიქსირდა შეცდომა",
+        "added_to_top_card": "შეტანილია თქვენ ტოპ|ქარდზე",
+        "try_again": "გთხოვთ სცადოთ ტოპ|ქარდის შევსება მოგვიანებით",
+        "home_page": "მთავარი გვერდი",
+        "cant_choose_cards": "ვერ მოხერხდა ბარათების არჩევა",
+        "specified_amount_is_incorrect": "მითითებული თანხა არასწორია",
+        "fill_top_card": "ტოპ|ქარდის შევსება",
+        "next": "შემდეგი"
+      },
+      "top_up": {
+        "save_template": "შაბლონად შენახვა",
+        "change_image": "ფოტოს შეცვლა",
+        "template_name": "შაბლონის სახელი",
+        "save_and_fill": "შენახვა და შევსება",
+        "just_save": "მხოლოდ შენახვა",
+        "mobile_filled": "მობილური შევსებულია",
+        "error": "დაფიქსირდა შეცდომა",
+        "processed_payment": "გადახდა მუშავდება",
+        "filled": "ჩარიცხულია",
+        "on_mobile": "მობილურზე",
+        "try_again_later": "გთხოვთ სცადოთ მობილურის შევსება მოგვიანებით",
+        "payment_status_history": "გადახდის სტატუსის სანახავად იხილეთ ტრანზაქციების ისტორია",
+        "filled_mobile": "მობილურის შევსება",
+        "recipient": "მიმღები",
+        "entered_num_incorrect": "შეყვანილი ნომერი არასწორია",
+        "mobile_number": "მობილურის ნომერი",
+        "save_as_template": "შაბლონად შენახვა",
+        "next": "შემდეგი",
+        "check": "შემოწმება"
+      },
+      "transfers": {
+        "choose_card": "აირჩიე ბარათი",
+        "mobile_num_incorrect": "მობილურის ნომერი არასწორადაა შეყვანილი",
+        "iban": "IBAN ანგარიში",
+        "iban_or_id": "IBAN ანგარიში ან პირადი ნომერი",
+        "cant_find_account_on_this_iban_or_id": "ვერ მოხერხდა ამ პირადობის ნომერზე ანგარიშის მოძებნა!",
+        "iban_or_pn": "ანგარიშით ან პირადი ნომრით",
+        "by_mobile_num": "მობილურის ნომრით",
+        "mobile_num": "მობილურის ნომერი",
+        "recipient_bank": "მიმღების ბანკი",
+        "recipient_bank_code": "მიმღების ბანკის კოდი",
+        "save_as_template": "შაბლონად შენახვა",
+        "next": "შემდეგი",
+        "chek": "შემოწმება",
+        "error": "მოხდა შეცდომა!",
+        "new_account_added_on_template": "ახალი ანგარიში წარმატებით მიება შაბლონს!",
+        "change_image": "ფოტოს შეცვლა",
+        "template_name": "შაბლონის სახელი",
+        "save_and_fill": "შენახვა და შევსება",
+        "save": "მხოლოდ შენახვა",
+        "payment_succeed": "გადარიცხვა შესრულებულია",
+        "payment_error": "დაფიქსირდა შეცდომა",
+        "payment_progress": "გადახდა მუშავდება",
+        "try_again_later": "გთხოვთ სცადოთ გადარიცხვა მოგვიანებით",
+        "payment_status_history": "გადახდის სტატუსის სანახავად იხილეთ ტრანზაქციების ისტორია",
+        "external_transfer": "სხვასთან გადარიცხვა",
+        "account_copied": "ანგარიში დაკოპირებულია",
+        "mobile": "მობილური",
+        "remove": "წაშლა",
+        "template": "შაბლონი",
+        "id_number": "პირადი ნომერი",
+        "templates_nf": "შაბლონები არ მოიძებნა",
+        "press_btn": "დააჭირეთ ღილაკს სხვასთან თანხის გადასარიცხად",
+        "new_transfer": "ახალი გადარიცხვა",
+        "new_payment": "ახალი გადარიცხვა",
+        "check_it": "გადაამოწმეთ",
+        "from_card": "ბარათიდან",
+        "sell": "გაყიდვა",
+        "buy": "ყიდვა",
+        "rate": "კურსი:",
+        "amount": "თანხა",
+        "approve": "დადასტურება",
+        "personal_transfer": "პირადი გადარიცხვა",
+        "on_my_account": "ჩემს ანგარიშზე",
+        "choose": "არჩევა",
+        "change_card": "ბარათების გადანაცვლება",
+        "on_card": "ბარათზე",
+        "destination": "დანიშნულება",
+        "on": "ზე",
+        "see": "ნახვა",
+        "paid": "გადარიცხულია"
+      },
+      "verification": {
+        "data_is_processing": "მონაცემები მუშავდება…",
+        "you_fill_get_notice": "რეგისტრაციის პროცესის დასრულების შესახებ მიიღებთ შეტყობინებას",
+        "home_page": "მთავარი გვერდი",
+        "next": "შემდეგი",
+        "interest": "ინტერესები",
+        "which_services_do_u_want": "რომელი საბანკო სერვისები გაინტერესებთ?",
+        "choose_service": "აირჩიეთ სერვის(ები)ი",
+        "expected_circulation": "მოსალოდნელი ბრუნვა ანგარიშზე",
+        "relationship_aim_between_bank": "ბანკთან ურთიერთობის მიზანი?",
+        "take_loan": "სესხის აღება",
+        "complex_bank_services": "კომპლექსური საბანკო სერვისები",
+        "one_time_operations": "ერთჯერადი ოპერაციები",
+        "additional_info": "დამატებითი ინფორმაცია",
+        "are_you_taxpayer": "ხართ თუ არა სხვა ქვეყნის გადასახადების გადამხდელი?",
+        "country": "ქვეყანა",
+        "are_you_politician": "ხართ თუ არა პოლიტიკურად აქტიური პირი?",
+        "no": "არა",
+        "yes": "კი",
+        "error": "მოხდა შეცდომა",
+        "take_your_id": "მოამზადეთ პირადობის მოწმობა ან პასპორტი",
+        "btn_ready_title": "ღილაკზე “მზად ვარ” დაჭერით თქვენ ეთანხმებით",
+        "id_policies": "იდენტიფიკაციის პირობებს",
+        "i_am_ready": "მზად ვარ",
+        "job_info": "ინფორმაცია საქმიანობაზე",
+        "employed": "დასაქმებული",
+        "entrepreneur": "მეწარმე",
+        "self_employed": "თვითდასაქმებული",
+        "unemployed": "უმუშევარი",
+        "name_of_employer": "დამსაქმებლის დასახელება",
+        "position": "პოზიცია",
+        "field_of_activity": "საქმიანობის სფერო",
+        "enter_min_2_word": "შეიყვანე მინიმუმ ორი სიტყვა",
+        "required_input": "ამ ველის შევსება აუცილებელია",
+        "actual_city": "ფაქტიური მისამართი",
+        "city": "ქალაქი",
+        "address": "მისამართი",
+        "exact_legal_and_actual": "იურიდიული მისამართი ემთხვევა ფაქტიურს",
+        "legal_address": "იურიდიული მისამართი",
+        "info_on_resident": "ინფორმაცია რეზიდენტზე",
+        "are_you_green": "ხართ თუ არა ამერიკული „მწვანე ბარათის“ მფლობელი (ვადის გასვლის თარიღის მიუხედავად) ან ხართ თუ არა აშშ-ის რეზიდენტი?",
+        "social_protect_number": "სოციალური დაცვის ნომერი",
+        "dont_have_social_protect_number": "არ მაქვს სოციალური დაცვის ნომერი",
+        "do_you_have_dual_citizenship": "გაქვთ ორმაგი მოქალაქეობა?",
+        "find_country": "მოძებნეთ ქვეყანა"
+      }
+    }
+  }
+}

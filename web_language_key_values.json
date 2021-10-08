@@ -14,6 +14,7 @@
     "placeholders": {
       "find_template": "Find a template"
     },
+    "something_went_wrong": "Something went wrong!",
     "toggle_card": "Block/Unblock cards",
     "communal": {
       "choose_all": "მონიშნე ყველა",
@@ -471,6 +472,7 @@
     "placeholders": {
       "find_template": "შაბლონის ძებნა"
     },
+    "something_went_wrong": "მოხდა შეცდომა",
     "toggle_card": "ბარათის დაბლოკვა/განბლოკვა",
     "communal": {
       "choose_all": "მონიშნე ყველა",

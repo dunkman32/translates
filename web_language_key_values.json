@@ -115,6 +115,10 @@
     "choose_card_modal": {
       "choose_card": "აირჩიეთ ბარათი"
     },
+    "toggle_card_modal": {
+      "block_success": "ბარათი წარმატებით დაიბლოკა",
+      "unblock_success": "ბარათი წარმატებით განიბლოკა"
+    },
     "debit_card": {
       "footer": {
         "account_copied": "ანგარიში დაკოპირებულია",
@@ -572,6 +576,10 @@
     },
     "choose_card_modal": {
       "choose_card": "აირჩიეთ ბარათი"
+    },
+    "toggle_card_modal": {
+      "block_success": "Card blocked successfully",
+      "unblock_success": "Card unblocked successfully"
     },
     "debit_card": {
       "footer": {

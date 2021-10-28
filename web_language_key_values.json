@@ -1,5 +1,8 @@
 {
   "en_US": {
+    "next": "Next",
+    "check": "Check",
+    "save": "save",
     "home_day_yesterday": "Yesterday",
     "home_day_today": "Today",
     "all": "all",
@@ -33,7 +36,17 @@
       "press_btn": "დააჭირეთ '+' ღილაკს კომუნალურების გადასახდელად",
       "new_payment": "ახალი გადახდა",
       "pay_selected": "მონიშნულის გადახდა",
-      "group": "დაჯგუფება"
+      "group": "დაჯგუფება",
+      "createTemplateError": "ვერ მოხერხდა შაბლონის შექმნა",
+      "deleteTemplateError": "ვერ მოხერხდა შაბლონის წაშლა",
+      "findService": "მოძებნე სერვისი",
+      "receiver": "მიმღები",
+      "identificator": "იდენტიფიკატორი",
+      "createNewGroup": "ახალი ჯგუფის შექმნა",
+      "makeGroup": "დაჯგუფება",
+      "groupName": "ჯგუფის სახელი",
+      "subscriber": "აბონენტი",
+      "service": "სერვისი"
     },
     "dashboard": {
       "slider_title": "ჩემი შეთავაზებები"
@@ -465,6 +478,9 @@
     }
   },
   "ka_GE": {
+    "next": "შემდეგი",
+    "check": "შემოწმება",
+    "save": "შენახვა",
     "home_day_yesterday": "გუშინ",
     "home_day_today": "დღეს",
     "currency_GEL": "ლარი",
@@ -498,7 +514,17 @@
       "press_btn": "დააჭირეთ '+' ღილაკს კომუნალურების გადასახდელად",
       "new_payment": "ახალი გადახდა",
       "pay_selected": "მონიშნულის გადახდა",
-      "group": "დაჯგუფება"
+      "group": "დაჯგუფება",
+      "createTemplateError": "ვერ მოხერხდა შაბლონის შექმნა",
+      "deleteTemplateError": "ვერ მოხერხდა შაბლონის წაშლა",
+      "findService": "მოძებნე სერვისი",
+      "receiver": "მიმღები",
+      "identificator": "იდენტიფიკატორი",
+      "createNewGroup": "ახალი ჯგუფის შექმნა",
+      "makeGroup": "დაჯგუფება",
+      "groupName": "ჯგუფის სახელი",
+      "subscriber": "აბონენტი",
+      "service": "სერვისი"
     },
     "dashboard": {
       "slider_title": "ჩემი შეთავაზებები"

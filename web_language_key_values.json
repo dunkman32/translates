@@ -1,5 +1,7 @@
 {
   "en_US": {
+    "home_day_yesterday": "Yesterday",
+    "home_day_today": "Today",
     "all": "all",
     "currency_GEL": "Lari",
     "currency_USD": "Dollar",
@@ -463,6 +465,8 @@
     }
   },
   "ka_GE": {
+    "home_day_yesterday": "გუშინ",
+    "home_day_today": "დღეს",
     "currency_GEL": "ლარი",
     "currency_USD": "დოლარი",
     "currency_EUR": "ევრო",

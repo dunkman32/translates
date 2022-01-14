@@ -4,7 +4,7 @@ export default [
         "emoji": "🇦🇩",
         "code": "+376",
         "nameEN": "Andorra",
-        "nameGE": "Andorra"
+        "nameGE": "ანდორა"
     },
     {
         "shortName": "AE",
